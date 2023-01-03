@@ -12,3 +12,5 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+Build.zip
+Build/WindowsNoEditor/Unreal_Jam_GR10/Content/Paks/Unreal_Jam_GR10-WindowsNoEditor.pak
